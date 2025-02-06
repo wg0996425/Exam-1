@@ -1,0 +1,15 @@
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\Exam-1\Exam 1 - Higher or Lower\bin\Debug\net6.0\Exam 1.exe
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\Exam-1\Exam 1 - Higher or Lower\bin\Debug\net6.0\Exam 1.deps.json
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\Exam-1\Exam 1 - Higher or Lower\bin\Debug\net6.0\Exam 1.runtimeconfig.json
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\Exam-1\Exam 1 - Higher or Lower\bin\Debug\net6.0\Exam 1.dll
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\Exam-1\Exam 1 - Higher or Lower\bin\Debug\net6.0\Exam 1.pdb
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\Exam-1\Exam 1 - Higher or Lower\obj\Debug\net6.0\Exam 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\Exam-1\Exam 1 - Higher or Lower\obj\Debug\net6.0\Exam 1.AssemblyInfoInputs.cache
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\Exam-1\Exam 1 - Higher or Lower\obj\Debug\net6.0\Exam 1.AssemblyInfo.cs
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\Exam-1\Exam 1 - Higher or Lower\obj\Debug\net6.0\Exam 1.csproj.CoreCompileInputs.cache
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\Exam-1\Exam 1 - Higher or Lower\obj\Debug\net6.0\Exam 1.sourcelink.json
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\Exam-1\Exam 1 - Higher or Lower\obj\Debug\net6.0\Exam 1.dll
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\Exam-1\Exam 1 - Higher or Lower\obj\Debug\net6.0\refint\Exam 1.dll
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\Exam-1\Exam 1 - Higher or Lower\obj\Debug\net6.0\Exam 1.pdb
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\Exam-1\Exam 1 - Higher or Lower\obj\Debug\net6.0\Exam 1.genruntimeconfig.cache
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\CIS-150\Exam-1\Exam 1 - Higher or Lower\obj\Debug\net6.0\ref\Exam 1.dll
